@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pcopsassistant.com/sitemap.xml
